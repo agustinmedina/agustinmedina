@@ -14,7 +14,9 @@ https://portfoliomedina-agustin1.web.app/portfolio
 
 https://portjwtmedina.netlify.app/portfolio
 
-- 💬 Ask me about in Linkedin: https://www.linkedin.com/in/agustin-medina-soto-a1a2a7132/
+- 💬 Ask me about in Linkedin.
+
+https://www.linkedin.com/in/agustin-medina-soto-a1a2a7132/
 
 
 <!--
