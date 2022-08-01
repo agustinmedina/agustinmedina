@@ -1,22 +1,17 @@
 ### Hi there 👋, my name is Agustin
 #### I am a Developer Full Stack
-![I am a Developer Full Stack](https://i.ibb.co/N3mwP6t/banner1.jpg)
-
+#
 I am a person passionate about Technology, I am willing to learn how things around us work, I like to work in a team, I have an intermediate level of English and creativity to solve problems.
 
 Skills: HTML / CSS / JS / Bootstrap / Angular / Java / Spring Boot 
 
-- 🔭 I’m currently working on this page.
+- 🔭 I’m currently working on this [page](https://portfoliomedina-agustin1.web.app/portfolio "page").
 
-https://portfoliomedina-agustin1.web.app/portfolio
 
-- 🔭 And this is Demo:
+- 🔭 And this is [demo](https://portjwtmedina.netlify.app/portfolio "demo").
 
-https://portjwtmedina.netlify.app/portfolio
 
-- 💬 Ask me about in Linkedin.
-
-https://www.linkedin.com/in/agustin-medina-soto-a1a2a7132/
+- 💬 Ask me about in [linkedin](https://www.linkedin.com/in/agustin-medina-soto-a1a2a7132/ "linkedin").
 
 
 <!--
