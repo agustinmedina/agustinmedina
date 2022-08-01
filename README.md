@@ -2,15 +2,17 @@
 #### I am a Developer Full Stack
 ![I am a Developer Full Stack](https://i.ibb.co/N3mwP6t/banner1.jpg)
 
-I am a person passionate about technology.
+I am a person passionate about Technology, I am willing to learn how things around us work, I like to work in a team, I have an intermediate level of English and creativity to solve problems.
 
 Skills: HTML / CSS / JS / Bootstrap / Angular / Java / Spring Boot 
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on this page.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/agustin-medina-soto-a1a2a7132//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfoliomedina-agustin1.web.app/portfolio)  
+https://portfoliomedina-agustin1.web.app/portfolio
 
+- And this is Demo:
 
+https://portjwtmedina.netlify.app/portfolio
 
 
 <!--
