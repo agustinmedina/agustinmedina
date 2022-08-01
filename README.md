@@ -4,9 +4,13 @@
 
 I am a person passionate about technology.
 
-Skills: HTML / CSS / JS / Bootstrap / Angular / Java / Spring Boot
+Skills: HTML / CSS / JS / Bootstrap / Angular / Java / Spring Boot 
 
 - 🔭 I’m currently working on this page. 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/agustin-medina-soto-a1a2a7132//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfoliomedina-agustin1.web.app/portfolio)  
+
+
 
 
 <!--
