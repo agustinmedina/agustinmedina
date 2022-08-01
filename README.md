@@ -10,7 +10,7 @@ Skills: HTML / CSS / JS / Bootstrap / Angular / Java / Spring Boot
 
 https://portfoliomedina-agustin1.web.app/portfolio
 
-- And this is Demo:
+- 🔭 And this is Demo:
 
 https://portjwtmedina.netlify.app/portfolio
 
