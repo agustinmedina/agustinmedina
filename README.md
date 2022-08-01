@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Agustin
+#### I am a Developer Full Stack
+![I am a Developer Full Stack](https://i.ibb.co/N3mwP6t/banner1.jpg)
+
+I am a person passionate about technology.
+
+Skills: HTML / CSS / JS / Bootstrap / Angular / Java / Spring Boot
+
+- 🔭 I’m currently working on this page. 
+
 
 <!--
 **agustinmedina/agustinmedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
